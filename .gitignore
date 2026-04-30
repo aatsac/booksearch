@@ -1,0 +1,35 @@
+# Built artifacts
+*.apk
+*.ap_
+*.aab
+
+# Build directories
+build/
+.gradle/
+app/build/
+
+# Local configuration
+local.properties
+*.iml
+
+# Android Studio
+.idea/
+*.iws
+*.ipr
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Gradle cache
+.gradle/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
