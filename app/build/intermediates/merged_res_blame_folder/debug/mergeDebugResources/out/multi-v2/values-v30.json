@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.booksearch.app-mergeDebugResources-60:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/home/adriano/.gradle/caches/transforms-4/6abded8a0c82c0c7e019030c61026136/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
